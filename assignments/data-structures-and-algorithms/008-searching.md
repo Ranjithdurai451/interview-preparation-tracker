@@ -2,9 +2,18 @@
 
 ## Linear Search
 
- 01. Linear Search
+01. Linear Search
 
----
+## Linear Searching Problems
+
+01. [ ] Find maximum element in a array
+
+02. [ ] Find minimum element in a array
+
+03. [ ] Find the number of elements that contains even digit in an array. nums = [123, 43, 453, 4332, 123456, 1234]. Output = 4
+
+04. [ ] Search a element in 2D array
+
 
 ## Binary Search
 
