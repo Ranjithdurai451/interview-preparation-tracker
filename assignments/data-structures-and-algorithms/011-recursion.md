@@ -68,3 +68,5 @@
 66. [ ] [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 67. [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 68. [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+69. [ ] Permutation of a string. Eg Input: "abc". Output: [cba, bca, bac, cab, acb, abc]
+70. [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/) - (Do it in recursion and we'll do it again in graphs)
