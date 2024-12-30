@@ -20,7 +20,15 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
-        int[] nums = { -1, 0, 3, 5, 9, 12 };
+        // int[] nums = { -1, 0, 3, 5, 9, 12 };
+        int count = 1;
+
+        int[] nums = new int[(int) 1e8];
+
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = count++;
+        }
+
         int target = 9;
         int result = search(nums, target);
         System.out.println(result);
